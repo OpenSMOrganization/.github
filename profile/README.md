@@ -56,8 +56,6 @@ Trabajamos utilizando herramientas colaborativas que nos permiten mantener una c
 
 <div align="center">
 
-<br>
-
 ### 🧠 Miro
 
 Espacio de trabajo colaborativo para diagramas, ideas, planificación y diseño visual.
