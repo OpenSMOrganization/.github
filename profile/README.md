@@ -61,16 +61,6 @@ Trabajamos utilizando herramientas colaborativas que nos permiten mantener una c
 
 <div align="center">
 
-<a href="https://miro.com/">
-  <img src="https://cdn.simpleicons.org/miro/050038" width="90" height="90" alt="Miro">
-</a>
-
-     
-
-<a href="https://trello.com/">
-  <img src="https://cdn.simpleicons.org/trello/0052CC" width="90" height="90" alt="Trello">
-</a>
-
 <br><br>
 
 ### 🧠 Miro
