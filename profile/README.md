@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GitHub-OpenSMOrganization-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
-<br><br>
+<br>
 
 <h3>🚀 Transformando ideas en soluciones tecnológicas abiertas</h3>
 
