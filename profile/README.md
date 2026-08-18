@@ -34,6 +34,7 @@ Mejorar la calidad de vida de las personas con nuestros sistemas.
 ### 👁️ Visión
 Ser la empresa de desarrollo de sistemas referente del mercado, reconocida por la calidad
 impecable de sus soluciones y el cumplimiento estricto de los compromisos.
+
 ### ⭐ Valores
 
 * 🤝 Trabajo en equipo
@@ -43,6 +44,10 @@ impecable de sus soluciones y el cumplimiento estricto de los compromisos.
 * ⚡ Calidad y eficiencia
 * 🌎 Impacto positivo
 
+🌐 El software libre se basa en la libertad y la comunidad. Defiende la autonomía del usuario
+mediante cuatro valores esenciales: libertad de usar, estudiar, modificar y compartir el código de
+forma cooperativa.
+
 ---
 
 ## 🛠️ Herramientas de trabajo
@@ -51,7 +56,7 @@ Trabajamos utilizando herramientas colaborativas que nos permiten mantener una c
 
 <div align="center">
 
-<br><br>
+<br>
 
 ### 🧠 Miro
 
