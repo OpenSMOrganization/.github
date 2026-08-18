@@ -10,14 +10,6 @@
     <img src="https://img.shields.io/badge/GitHub-OpenSMOrganization-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
-<a href="https://trello.com/">
-    <img src="https://img.shields.io/badge/Trello-Organización-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-</a>
-
-<a href="https://miro.com/">
-    <img src="https://img.shields.io/badge/Miro-Colaboración-FFD02F?style=for-the-badge&logo=miro&logoColor=black">
-</a>
-
 <br><br>
 
 <h3>🚀 Transformando ideas en soluciones tecnológicas abiertas</h3>
