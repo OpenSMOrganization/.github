@@ -4,8 +4,6 @@
 
 <img src="https://img.shields.io/badge/OpenSM-Innovación%20y%20Tecnología-0A66C2?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
 
-<br><br>
-
 <a href="https://github.com/OpenSMOrganization">
     <img src="https://img.shields.io/badge/GitHub-OpenSMOrganization-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
