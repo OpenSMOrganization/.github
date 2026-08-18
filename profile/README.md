@@ -1,36 +1,108 @@
+# 🌍 OpenSMOrganization
+
 <div align="center">
 
-# OpenSMOrganization
+<img src="https://img.shields.io/badge/OpenSM-Innovación%20y%20Tecnología-0A66C2?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
 
-<p>
-  <a href="https://github.com/OpenSMOrganization">
+<br><br>
+
+<a href="https://github.com/OpenSMOrganization">
     <img src="https://img.shields.io/badge/GitHub-OpenSMOrganization-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
+</a>
 
-</div>
-# 🛠️ Herramientas
-
-Utilizamos herramientas colaborativas para trabajar de forma sincronizada y óptima en nuestro equipo de desarrollo.
-
-<div align="center">
+<a href="https://trello.com/">
+    <img src="https://img.shields.io/badge/Trello-Organización-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+</a>
 
 <a href="https://miro.com/">
-  <img src="https://cdn.simpleicons.org/miro/050038" width="100" height="100" alt="Miro">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://trello.com/">
-  <img src="https://cdn.simpleicons.org/trello/0052CC" width="100" height="100" alt="Trello">
+    <img src="https://img.shields.io/badge/Miro-Colaboración-FFD02F?style=for-the-badge&logo=miro&logoColor=black">
 </a>
 
 <br><br>
 
+<h3>🚀 Transformando ideas en soluciones tecnológicas abiertas</h3>
+
+<p>
+OpenSM es una organización dedicada al desarrollo de software, la innovación tecnológica y la creación de proyectos colaborativos de código abierto.
+</p>
+
+</div>
+
+---
+
+## 🏢 Sobre OpenSM
+
+**OpenSMOrganization** es una organización enfocada en el diseño, desarrollo y gestión de soluciones tecnológicas modernas libres de código abierto.
+
+### 💡 Objetivo 
+Desarrollar un sistema de gestión de residuos para zonas urbanas.
+
+### 🎯 Misión
+
+Mejorar la calidad de vida de las personas con nuestros sistemas.
+
+### 👁️ Visión
+Ser la empresa de desarrollo de sistemas referente del mercado, reconocida por la calidad
+impecable de sus soluciones y el cumplimiento estricto de los compromisos.
+### ⭐ Valores
+
+* 🤝 Trabajo en equipo
+* 🚀 Innovación constante
+* 📖 Aprendizaje continuo
+* 🔓 Software abierto
+* ⚡ Calidad y eficiencia
+* 🌎 Impacto positivo
+
+---
+
+## 🛠️ Herramientas de trabajo
+
+Trabajamos utilizando herramientas colaborativas que nos permiten mantener una comunicación fluida y una organización eficiente.
+
+<div align="center">
+
 <a href="https://miro.com/">
-  <strong>Miro</strong>
+  <img src="https://cdn.simpleicons.org/miro/050038" width="90" height="90" alt="Miro">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+     
+
 <a href="https://trello.com/">
-  <strong>Trello</strong>
+  <img src="https://cdn.simpleicons.org/trello/0052CC" width="90" height="90" alt="Trello">
 </a>
+
+<br><br>
+
+### 🧠 Miro
+
+Espacio de trabajo colaborativo para diagramas, ideas, planificación y diseño visual.
+
+### 📋 Trello
+
+Gestión de tareas, seguimiento de proyectos y organización del flujo de trabajo.
+
+</div>
+
+## 📈 Estadísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OpenSMOrganization\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenSMOrganization\&layout=compact\&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Únete a OpenSM
+
+Si te interesa colaborar, aprender o participar en nuestros proyectos, estaremos encantados de trabajar contigo.
+
+<div align="center">
+
+### 🚀 Innovación • Colaboración • Tecnología
+
+**OpenSMOrganization**
 
 </div>
