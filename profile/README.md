@@ -84,7 +84,7 @@ Si te interesa colaborar, aprender o participar en nuestros proyectos, estaremos
 
 <div align="center">
 
-### 🚀 Innovación • Colaboración • Tecnología
+### 🧑‍💻 Innovación • Colaboración • Tecnología
 
 **OpenSMOrganization**
 
